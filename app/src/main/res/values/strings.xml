@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewPager Inside RecyclerView</string>
+    <string name="image_description">image Description</string>
+</resources>
